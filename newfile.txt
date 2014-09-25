@@ -4,6 +4,7 @@ bbbbbbb
 cccc
 master  &&  feature1
 test1 branch
-ddddddddddddddddddddddddddddd ffff
+ddddddddddddddddddddddddddddd
 eeeeeeeeeeee
+ffff
 ggggggggggggggg
