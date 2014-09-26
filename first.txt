@@ -1,2 +1,3 @@
 this is first txt.
-this is line two in another dev.
+<<<<<<< HEAD
+this is line two/2 in another dev.
